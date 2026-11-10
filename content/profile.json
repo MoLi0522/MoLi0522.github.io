@@ -1,0 +1,17 @@
+{
+  "name": "张高俊",
+  "english_name": "Gaojun Zhang",
+  "github_username": "MoLi0522",
+  "site_url": "https://moli0522.github.io",
+  "description": "张高俊的个人主页与博客。山东大学计算机技术硕士在读，记录学习、代码与成长。",
+  "tagline": "在代码中探索，在文字中沉淀。",
+  "intro": "你好，我是张高俊，目前在山东大学攻读计算机技术硕士学位。这里是我的个人主页，也是整理学习笔记、代码实践与日常思考的地方。",
+  "hometown": "河南 · 扶沟",
+  "school": "山东大学",
+  "status": "计算机技术 · 硕士在读",
+  "education": [
+    {"period": "2026.09 — 至今", "degree": "硕士", "school": "山东大学", "major": "计算机技术", "current": true},
+    {"period": "2022.09 — 2026.06", "degree": "本科", "school": "山东大学", "major": "计算机科学与技术", "current": false}
+  ],
+  "projects": []
+}
